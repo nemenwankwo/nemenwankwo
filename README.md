@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**nemenwankwo/nemenwankwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I&#39;m [Chinemelum Nwankwo]! ��
+### �� About Me
+- ��️ Cybersecurity Specialist
+- �� Exploring (penetration testing)
+- �� Lifelong learner passionate about securing computers and networks
+### �� My Work
+- �� [LinkedIn Profile](https://linkedin.com/in/chinemelum-nwankwo-16bab8185/)
+### ��️ Skills
+- **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
+Risk Assessments, Network Security, Endpoint security,
+- **Tools**: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
+### �� GitHub Stats
+![GitHub Stats](https://github-readme-
+stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical)
+### ✨ Fun Fact
+I&#39;m  a football lover, chess player and music player.
 -->
